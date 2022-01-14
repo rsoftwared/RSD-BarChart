@@ -5,4 +5,3 @@ D:\Aatif\RSDCharts\RSDCharts\obj\Debug\RSDCharts.dll
 D:\Aatif\RSDCharts\RSDCharts\obj\Debug\RSDCharts.pdb
 D:\Aatif\RSDCharts\RSDCharts\bin\Dapper.dll
 D:\Aatif\RSDCharts\RSDCharts\bin\Dapper.xml
-D:\Aatif\RSDCharts\RSDCharts\obj\Debug\RSDCharts.csprojResolveAssemblyReference.cache
